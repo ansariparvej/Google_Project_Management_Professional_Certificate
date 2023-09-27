@@ -4,7 +4,7 @@ This repository lists the material of project managment courses of Google Projec
 There are 6 Courses in this Professional Certificate
 
 ### [COURSE 1](https://github.com/ansariparvej/Google_Project_Management_Professional_Certificate/blob/main/Certificates/1.%20Foundations%20of%20Project%20Management.pdf)
-#### Foundations of Project Management
+### Foundations of Project Management
 
 - Define project management and describe what constitutes a project.
 - Explore project management roles and responsibilities across a variety of industries.
@@ -15,7 +15,7 @@ There are 6 Courses in this Professional Certificate
 - Define change management and describe the role of the project manager in the process.
 
 ### [COURSE 2](https://github.com/ansariparvej/Google_Project_Management_Professional_Certificate/blob/main/Certificates/2.%20Project%20Initiation%20%20Starting%20a%20Successful%20Project.pdf)
-#### Project Initiation: Starting a Successful Project
+### Project Initiation: Starting a Successful Project
 
 - Understand the significance of the project initiation phase of the project life cycle. 
 - Describe the key components of the project initiation phase. 
@@ -31,7 +31,7 @@ There are 6 Courses in this Professional Certificate
 
 
 ### [COURSE 3](https://github.com/ansariparvej/Google_Project_Management_Professional_Certificate/blob/main/Certificates/3.%20Project%20Planning%20%20Putting%20It%20All%20Together.pdf)
-#### Project Planning: Putting It All Together
+### Project Planning: Putting It All Together
 
  - Describe the components of the project planning phase and their significance.
  - Explain why milestones are important and how to set them. 
@@ -46,7 +46,7 @@ There are 6 Courses in this Professional Certificate
 
 
 ### [COURSE 4](https://github.com/ansariparvej/Google_Project_Management_Professional_Certificate/blob/main/Certificates/4.%20Project%20Execution%20%20Running%20the%20Project.pdf)
-#### Project Execution: Running the Project
+### Project Execution: Running the Project
 
  - Identify what aspects of a project to track and compare different tracking methods.
  - Discuss how to effectively manage and communicate changes, dependencies, and risks.
@@ -58,7 +58,7 @@ There are 6 Courses in this Professional Certificate
  - Describe the steps of the closing process for stakeholders, the project team, and project managers.
 
 ### [COURSE 5](https://github.com/ansariparvej/Google_Project_Management_Professional_Certificate/blob/main/Certificates/5.%20Agile%20Project%20Management.pdf)
-#### Agile Project Management
+### Agile Project Management
 
  - Explain the Agile project management approach and philosophy, including values and principles.
  - Explain the pillars of Scrum and how they support Scrum values.
@@ -71,7 +71,7 @@ There are 6 Courses in this Professional Certificate
 
 
 ### [COURSE 6](https://github.com/ansariparvej/Google_Project_Management_Professional_Certificate/blob/main/Certificates/6.%20Capstone%20%20Applying%20Project%20Management%20in%20the%20Real%20World.pdf)
-#### Capstone: Applying Project Management in the Real World
+### Capstone: Applying Project Management in the Real World
 
 - analyze project documents to identify project requirements and evaluate stakeholders 
 - complete a project charter and use it as a tool to align project scope and goals among stakeholders
