@@ -1,14 +1,3 @@
-<!--
- * @Author: PARVEJ ALAM ANSARI
- * @Date: 27-09-2023-01 20:20:20
- * @Description:
- * @FilePath: \Coursera_Google-Project-Management\README.md
--->
-
-Descritpion Template
-Quizzes & Assignment Solutions for Entire $(Course Name) on Coursera. Also included a few resources on side that I found helpful.
-
-Common Tag: data-science, python, data-visualization, cousera, assignment-solution, quiz, sql, data-analytics, excel
 
 <a href="https://github.com/bdfd"><img src="https://img.shields.io/github/followers/bdfd?label=Follow%20Me&logo=github" alt="GitHub Followers" /></a>
 ![ViewCount](https://views.whatilearened.today/views/github/BDFD-LearningGround/Coursera_Google-Project-Management.svg?cache=remove)
