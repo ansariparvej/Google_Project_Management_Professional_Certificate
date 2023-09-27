@@ -1,20 +1,10 @@
-![ViewCount](https://views.whatilearened.today/views/github/BDFD-LearningGround/Coursera_Google-Project-Management.svg?cache=remove)
-![GitHub top language](https://img.shields.io/github/languages/top/BDFD-LearningGround/Coursera_Google-Project-Management?style=flat)
-![GitHub language count](https://img.shields.io/github/languages/count/BDFD-LearningGround/Coursera_Google-Project-Management?style=flat)
-![GitHub language count](https://img.shields.io/github/languages/count/BDFD-LearningGround/Coursera_Google-Project-Management?style=flat)
-<img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/Finish.svg" alt="bdfd" />
+# <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a>Google Project ManagementProfessional Certificate at Coursera
 
-<!-- <img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/On_Progress.svg" alt="bdfd" /> -->
-
-# <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a>Google Project Management(Coursera)
-
-## About This Course/Certificate
-
-About This workshop and the materials in this repo are for anyone who is interested in working with Project Management to produce high quality, working style! Check out follow course link if you think it is interested.
+## About This Course:
 
 **Course Link:** [Google Project Management:Professional Certificate](https://www.coursera.org/professional-certificates/google-project-management)
 
-## Course Learn Path
+## Course Path:
 
 The courses enlisted as follows:
 
