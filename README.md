@@ -1,4 +1,4 @@
-# <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a>Google Project ManagementProfessional Certificate at Coursera
+# <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a>Google Project ManagementProfessional Certificate
 
 ## About This Course:
 
@@ -9,6 +9,7 @@
 The courses enlisted as follows:
 
 - [x] **Course_1-Foundations of Project Management**
+- (https://github.com/ansariparvej/Google_Project_Management_Professional_Certificate/blob/main/Certificates/1.%20Foundations%20of%20Project%20Management.pdf)
 - [x] **Course_2-Project Initiation: Starting a Successful Project**
 - [x] **Course_3-Project Planning: Putting It All Together**
 - [x] **Course_4-Project Execution: Running the Project**
@@ -16,28 +17,9 @@ The courses enlisted as follows:
 - [x] **Course_6-Capstone: Applying Project Management in the Real World**
 
 
-<br/>
 This program includes over 140 hours of instruction and hundreds of practice-based assessments which will help you simulate real-world project management scenarios that are critical for success in the workplace.
 
 The content is highly interactive and exclusively developed by Google employees with decades of experience in program and project management.
-
-## Applied Learning Project
-
-**Skills:** - Creating Risk Management Plans;
-
-- Understanding process improvement techniques;
-- Managing escalations, team dynamics, and stakeholders;
-- Creating budgets and navigating procurement;
-- Utilizing project management software, tools, and templates;
-- Practicing Agile project management, with an emphasis on Scrum.
-
-**Tools:**
-
-**Libraries:**
-
-**Projects:**
-
-#### Useful Resources
 
 - [Course Link](https://www.coursera.org/professional-certificates/google-project-management)
 
