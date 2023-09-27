@@ -14,7 +14,7 @@ There are 6 Courses in this Professional Certificate
 - Define organizational structure and culture and explain how it impacts project management. 
 - Define change management and describe the role of the project manager in the process.
 
-[Course_Certi_1](https://github.com/ansariparvej/Google_Project_Management_Professional_Certificate/blob/main/Certificates/1.%20Foundations%20of%20Project%20Management.pdf)
+### [Course_Certi_1](https://github.com/ansariparvej/Google_Project_Management_Professional_Certificate/blob/main/Certificates/1.%20Foundations%20of%20Project%20Management.pdf)
 
 ### COURSE 2
 #### Project Initiation: Starting a Successful Project
