@@ -3,7 +3,7 @@ This repository lists the material of project managment courses of Google Projec
 
 There are 6 Courses in this Professional Certificate
 
-### COURSE 1
+### [COURSE 1](https://github.com/ansariparvej/Google_Project_Management_Professional_Certificate/blob/main/Certificates/1.%20Foundations%20of%20Project%20Management.pdf)
 #### Foundations of Project Management
 
 - Define project management and describe what constitutes a project.
@@ -13,8 +13,6 @@ There are 6 Courses in this Professional Certificate
 - Compare different program management methodologies and approaches and determine which is most effective for a given project.
 - Define organizational structure and culture and explain how it impacts project management. 
 - Define change management and describe the role of the project manager in the process.
-
-### [Course_Certi_1](https://github.com/ansariparvej/Google_Project_Management_Professional_Certificate/blob/main/Certificates/1.%20Foundations%20of%20Project%20Management.pdf)
 
 ### COURSE 2
 #### Project Initiation: Starting a Successful Project
