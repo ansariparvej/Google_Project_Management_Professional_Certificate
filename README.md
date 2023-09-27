@@ -79,7 +79,6 @@ There are 6 Courses in this Professional Certificate
 - define quality management standards and explore how to effectively share qualitative data
 - demonstrate your project’s impact through effective reporting 
 
-<br>
 ### ![COURSE Certificate:](https://github.com/ansariparvej/Google_Project_Management_Professional_Certificate/blob/main/Certificates/Credly%20Badges/google-project-management-certificate.2.png)
 
 ## References
