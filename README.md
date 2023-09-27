@@ -4,7 +4,7 @@
 
 **Course Link:** [Google Project Management:Professional Certificate](https://www.coursera.org/professional-certificates/google-project-management)
 
-## Course Path:
+## Course Description: 6 Courses:
 
 The courses enlisted as follows:
 
@@ -15,7 +15,6 @@ The courses enlisted as follows:
 - [x] **Course_5-Agile Project Management**
 - [x] **Course_6-Capstone: Applying Project Management in the Real World**
 
-## Course Description: 6 Courses
 
 <br/>
 This program includes over 140 hours of instruction and hundreds of practice-based assessments which will help you simulate real-world project management scenarios that are critical for success in the workplace.
