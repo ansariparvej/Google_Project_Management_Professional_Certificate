@@ -14,7 +14,7 @@ There are 6 Courses in this Professional Certificate
 - Define organizational structure and culture and explain how it impacts project management. 
 - Define change management and describe the role of the project manager in the process.
 
-### COURSE 2
+### [COURSE 2](https://github.com/ansariparvej/Google_Project_Management_Professional_Certificate/blob/main/Certificates/2.%20Project%20Initiation%20%20Starting%20a%20Successful%20Project.pdf)
 #### Project Initiation: Starting a Successful Project
 
 - Understand the significance of the project initiation phase of the project life cycle. 
@@ -30,7 +30,7 @@ There are 6 Courses in this Professional Certificate
 - Evaluate various project management tools to meet project needs.
 
 
-### COURSE 3
+### [COURSE 3](https://github.com/ansariparvej/Google_Project_Management_Professional_Certificate/blob/main/Certificates/3.%20Project%20Planning%20%20Putting%20It%20All%20Together.pdf)
 #### Project Planning: Putting It All Together
 
  - Describe the components of the project planning phase and their significance.
@@ -45,7 +45,7 @@ There are 6 Courses in this Professional Certificate
  - Make accurate time estimates and describe techniques for acquiring them from team members.
 
 
-### COURSE 4
+### [COURSE 4](https://github.com/ansariparvej/Google_Project_Management_Professional_Certificate/blob/main/Certificates/4.%20Project%20Execution%20%20Running%20the%20Project.pdf)
 #### Project Execution: Running the Project
 
  - Identify what aspects of a project to track and compare different tracking methods.
@@ -57,7 +57,7 @@ There are 6 Courses in this Professional Certificate
  - Identify tools that provide effective project team communication and explore best practices for communicating project status updates.
  - Describe the steps of the closing process for stakeholders, the project team, and project managers.
 
-### COURSE 5
+### [COURSE 5](https://github.com/ansariparvej/Google_Project_Management_Professional_Certificate/blob/main/Certificates/5.%20Agile%20Project%20Management.pdf)
 #### Agile Project Management
 
  - Explain the Agile project management approach and philosophy, including values and principles.
@@ -70,7 +70,7 @@ There are 6 Courses in this Professional Certificate
  - Conduct a job search for an Agile role and learn how to succeed in your interview.
 
 
-### COURSE 6
+### [COURSE 6](https://github.com/ansariparvej/Google_Project_Management_Professional_Certificate/blob/main/Certificates/6.%20Capstone%20%20Applying%20Project%20Management%20in%20the%20Real%20World.pdf)
 #### Capstone: Applying Project Management in the Real World
 
 - analyze project documents to identify project requirements and evaluate stakeholders 
@@ -79,6 +79,7 @@ There are 6 Courses in this Professional Certificate
 - define quality management standards and explore how to effectively share qualitative data
 - demonstrate your project’s impact through effective reporting 
 
+### [COURSE Certificate:](https://github.com/ansariparvej/Google_Project_Management_Professional_Certificate/blob/main/Certificates/Credly%20Badges/google-project-management-certificate.2.png)
 
 ## References
 - https://www.coursera.org/professional-certificates/google-project-management
