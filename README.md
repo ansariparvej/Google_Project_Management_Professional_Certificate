@@ -9,7 +9,7 @@
 The courses enlisted as follows:
 
 - [x] **Course_1-Foundations of Project Management**
-- (https://github.com/ansariparvej/Google_Project_Management_Professional_Certificate/blob/main/Certificates/1.%20Foundations%20of%20Project%20Management.pdf)
+- [Link_1](https://github.com/ansariparvej/Google_Project_Management_Professional_Certificate/blob/main/Certificates/1.%20Foundations%20of%20Project%20Management.pdf)
 - [x] **Course_2-Project Initiation: Starting a Successful Project**
 - [x] **Course_3-Project Planning: Putting It All Together**
 - [x] **Course_4-Project Execution: Running the Project**
