@@ -1,5 +1,3 @@
-
-<a href="https://github.com/bdfd"><img src="https://img.shields.io/github/followers/bdfd?label=Follow%20Me&logo=github" alt="GitHub Followers" /></a>
 ![ViewCount](https://views.whatilearened.today/views/github/BDFD-LearningGround/Coursera_Google-Project-Management.svg?cache=remove)
 ![GitHub top language](https://img.shields.io/github/languages/top/BDFD-LearningGround/Coursera_Google-Project-Management?style=flat)
 ![GitHub language count](https://img.shields.io/github/languages/count/BDFD-LearningGround/Coursera_Google-Project-Management?style=flat)
